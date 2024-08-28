@@ -49,7 +49,7 @@ The app is created using python and streamlit.
 # How to run streamlit app in your browser : 
       streamlit run Data_Analysis_WebApp.py
 
-# You can now view your Streamlit app in your browser :
+# You can now view Streamlit app in browser :
 
 ![Screenshot (862)](https://github.com/user-attachments/assets/fba0ded7-26fa-4fbe-83e7-a302a5c5b0b5)
 ![Screenshot (859)](https://github.com/user-attachments/assets/18ae93a6-5fd9-436b-96b4-365e0c4dffb0)
