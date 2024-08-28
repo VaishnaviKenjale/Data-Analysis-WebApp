@@ -37,6 +37,7 @@ This web app is developed by **Vaishnavi Kenjale**. It leverages Python librarie
 
 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/vaishnavikenjale/)
+- [LinkedIn Post Engagement](https://www.linkedin.com/feed/update/urn:li:activity:7234574557553074176/)
 - [GitHub](https://github.com/VaishnaviKenjale)
 
 **Try it out!** Download the project, and start analyzing your data in minutes!
