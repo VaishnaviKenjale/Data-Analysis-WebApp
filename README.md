@@ -51,6 +51,6 @@ The app is created using python and streamlit.
 
 # You can now view your Streamlit app in your browser :
 
-![Screenshot (858)](https://github.com/user-attachments/assets/3ce6be84-dbe2-4aa4-a7f4-d16095fcd570)
+![Screenshot (861)](https://github.com/user-attachments/assets/49a2291e-2740-448a-b813-a17c95c19345)
 ![Screenshot (859)](https://github.com/user-attachments/assets/18ae93a6-5fd9-436b-96b4-365e0c4dffb0)
 ![Screenshot (860)](https://github.com/user-attachments/assets/393833f3-ebc4-4fef-9d59-098151af0063)
