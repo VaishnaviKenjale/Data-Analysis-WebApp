@@ -1,2 +1,46 @@
-# Data-Analysis-WebApp
-Created a Data Analysis WebApp using Python &amp; Streamlit
+# Data Analysis WebApp
+
+![business-data-analysis-1](https://github.com/user-attachments/assets/8ff50234-9454-44b2-9cb8-e8f53c456c41)
+
+# Overview
+
+Welcome to the Data Analysis WebApp! This tool is designed to help you analyze your datasets efficiently using Python. Simply upload your CSV or XLSX files, and explore various features that allow you to preview your data, handle missing values, identify data types, check memory usage, and more.
+
+# Key Features
+
+- **Upload and Preview Datasets:** Upload your dataset in CSV or XLSX format and preview it using the 'Head' or 'Tail' options.
+
+- **Data Type Inspection:** Easily check the data type of each column in your dataset.
+
+- **Dimension Check:** Get the number of rows and columns to understand the structure of your data.
+
+- **Handle Missing Values:** Identify missing values in your dataset and choose how to handle them—whether by filling with default values, interpolating, or dropping them entirely.
+
+- **Remove Duplicates:** Identify and remove duplicate values to ensure data integrity.
+
+- **Frequency Counts:** Analyze the frequency of values in your dataset with a simple click.
+
+- **Statistical Summary:** Obtain a comprehensive statistical summary of your dataset, including mean, median, standard deviation, and more.
+
+- **Memory Usage:** Get detailed information about the memory usage of your dataset to optimize performance.
+
+# How to Use
+
+1. **Upload Your Dataset:** Start by uploading a CSV or XLSX file.
+2. **Explore Data:** Use the various checkboxes and buttons to analyze different aspects of your dataset.
+3. **Handle Missing Values:** Choose how you want to manage missing data—fill, interpolate, or drop them.
+4. **Save Your Work:** Save the updated dataset to your local drive after making necessary changes.
+
+# About
+
+This web app is developed by **Vaishnavi Kenjale**. It leverages Python libraries like `pandas`, `seaborn`, and `matplotlib` to provide an intuitive and user-friendly interface for data analysis.
+
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/vaishnavikenjale/)
+- [GitHub](https://github.com/VaishnaviKenjale)
+
+**Try it out!** Download the project, and start analyzing your data in minutes!
+
+# Background
+
+The app is created using python and streamlit.
