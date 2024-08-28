@@ -44,3 +44,8 @@ This web app is developed by **Vaishnavi Kenjale**. It leverages Python librarie
 # Background
 
 The app is created using python and streamlit.
+
+
+# How to run streamlit app in your browser : 
+      streamlit run Data_Analysis_WebApp.py
+You can now view your Streamlit app in your browser.
